@@ -1,0 +1,62 @@
+/*  Imp : Selector */
+
+
+/* 1). Class Selector */
+
+
+/* .first{
+
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+} */
+
+
+/* 2). Id Selector */
+
+
+/* #himanshu{
+
+    width: 100px;
+    height: 100px;
+    background-color: burlywood;
+
+
+} */
+
+
+/* 3). Element Selector   - Select Specific Tag Like - div h1 p etc */
+
+/* p{
+    color: coral;
+} */
+
+
+/* 4). Universal Selector - Reset the css */
+
+
+/* *{
+
+    margin: 0px;
+    padding: 0px;
+} */
+
+
+/* Pseudo Selector */
+
+
+/* div{
+
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+div:hover{
+
+    background-color: red;
+} */
+
+

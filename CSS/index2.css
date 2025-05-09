@@ -1,0 +1,54 @@
+.first{
+
+    display: flex;
+    justify-content: center;
+   
+
+
+}
+
+
+.second{
+
+   
+    
+   
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    
+    
+}
+
+
+
+/* Second Properities */
+
+
+/* Gradient */
+
+
+body{
+
+    
+
+/* 
+    background-image: linear-gradient(to right, yellow,green); */
+
+     /* background-image: linear-gradient(to left, yellow,green); */
+
+/* 
+     background-image: linear-gradient(to right,blue,orange);
+
+     background-image: linear-gradient(to left,blue,orange); */
+
+
+
+     /* background-image: radial-gradient(orange,white,green); */
+
+    
+
+     
+}
