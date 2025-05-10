@@ -1,0 +1,20 @@
+.first{
+
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border: 2px solid black;
+    border-radius: 10px;
+    /* 1). Animation name define
+    2). Animation duration
+    3). Animation kab tak chalna chaiyae
+     */
+    animation : himanshu 20s infinite;   
+
+}
+
+@keyframes himanshu{
+
+    from{background-color: red; top:0px;}
+    to{background-image: linear-gradient(orange,green); top: 200px;}
+}
