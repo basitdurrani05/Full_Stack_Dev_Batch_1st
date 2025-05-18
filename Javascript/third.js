@@ -20,3 +20,24 @@
 // console.log(a)
 
 
+// Non - Primitive
+
+// 1).Object - API  (Application Programming Interface)
+
+let a = {
+
+    game:"Pubg",
+    downloads:"100000+",
+    active:"1000"
+
+    
+}
+
+console.log(a.active)
+
+
+
+
+
+
+
