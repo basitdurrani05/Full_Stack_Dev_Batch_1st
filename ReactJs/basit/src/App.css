@@ -1,0 +1,25 @@
+body {
+
+    background-image: url(avengersendgame_lob_mas_dsk_01.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+}
+
+.Footer {
+
+    background-color: white;
+    text-align: center;
+
+    /* 1. First Method of bottom footer */
+    /* position:  fixed;
+   left: 0;
+   bottom: 0; */
+    /* 2). Second Method */
+    /* margin-top: 550px; */
+
+    /* 3). Third Method */
+
+
+
+}
